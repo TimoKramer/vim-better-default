@@ -224,9 +224,9 @@ endif
         " Quit visual mode
         vnoremap v <Esc>
         " Move to the start of line
-        nnoremap H ^
+        "nnoremap H ^
         " Move to the end of line
-        nnoremap L $
+        "nnoremap L $
         " Redo
         nnoremap U <C-r>
         " Quick command mode
