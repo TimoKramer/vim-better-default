@@ -74,8 +74,6 @@ set t_ut=
 set winminheight=0
 set wildmode=list:longest,full
 
-set listchars=tab:→\ ,eol:↵,trail:·,extends:↷,precedes:↶
-
 set whichwrap+=<,>,h,l  " Allow backspace and cursor keys to cross line boundaries
 
 set termencoding=utf-8
